@@ -16,14 +16,14 @@
         <li><a href="#utilização">Como utilizar os programas</a></li>
         <li><a href="#atividades">Lista de atividades</a></li>
     </ol>
-
+<br><br>
 <h2 id="programas">Programas utilizados</h2>
     <p>
         Para compilar e executar os programas, você precisará ter um compilador C. Você pode usar o GDB online (GNU Debugger) ou até mesmo o VSCode. Para iniciar no GDB, você pode acessá-lo usando o seguinte link: <a href="https://www.onlinegdb.com/">clique aqui</a>.
     </p>
-
+<br><br>
 <h2 id="utilização">Como utilizar os programas</h2>
-
+<br>
 <h3>VSCode</h3>
     <ol>
         <li><strong>Instale o VSCode</strong>
@@ -69,7 +69,7 @@
             </ul>
         </li>
     </ol>
-
+<br>
 <h3>GDB Online</h3>
     <ol>
         <li><strong>Escolha uma Plataforma Online</strong>: Use sites como <a href="https://www.onlinegdb.com/">OnlineGDB</a> ou <a href="https://replit.com/">Replit</a>.</li>
@@ -82,12 +82,13 @@ printf("Hello, World!\\n");
 return 0;
 }
 </code></pre>
+
 </li>
 <li><strong>Compilar o Código</strong>: Clique no botão de compilar (geralmente chamado "Run" ou "Compile").</li>
 <li><strong>Iniciar o GDB</strong>: Se a plataforma suportar, procure a opção de depuração (debug) e inicie o GDB.</li>
 <li><strong>Usar o GDB</strong>: Defina breakpoints, execute o código passo a passo e inspecione variáveis conforme necessário.</li>
 <li><strong>Executar o Programa</strong>: Após a depuração, execute seu programa para ver os resultados.</li>
-</ol>
+</ol><br><br>
 
 <h2 id="atividades">Lista de atividades</h2>
     <ol>
