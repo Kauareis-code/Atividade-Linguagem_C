@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<h1>Repositório de Exercícios em C 💻
+<h1> ‹ Repositório de Exercícios em C ›
 </h1>
 <img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif?cid=ecf05e474eice3n8gdd39ngcjkw8tom6j7le3liucz5rmj9b&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
     <h2>Atividades em Linguagem C</h2>
