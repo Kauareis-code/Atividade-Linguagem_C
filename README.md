@@ -78,33 +78,33 @@
             <pre><code>#include &lt;stdio.h&gt;
 
 int main() {
-    printf("Hello, World!\\n");
-    return 0;
+printf("Hello, World!\\n");
+return 0;
 }
 </code></pre>
-        </li>
-        <li><strong>Compilar o Código</strong>: Clique no botão de compilar (geralmente chamado "Run" ou "Compile").</li>
-        <li><strong>Iniciar o GDB</strong>: Se a plataforma suportar, procure a opção de depuração (debug) e inicie o GDB.</li>
-        <li><strong>Usar o GDB</strong>: Defina breakpoints, execute o código passo a passo e inspecione variáveis conforme necessário.</li>
-        <li><strong>Executar o Programa</strong>: Após a depuração, execute seu programa para ver os resultados.</li>
-    </ol>
+</li>
+<li><strong>Compilar o Código</strong>: Clique no botão de compilar (geralmente chamado "Run" ou "Compile").</li>
+<li><strong>Iniciar o GDB</strong>: Se a plataforma suportar, procure a opção de depuração (debug) e inicie o GDB.</li>
+<li><strong>Usar o GDB</strong>: Defina breakpoints, execute o código passo a passo e inspecione variáveis conforme necessário.</li>
+<li><strong>Executar o Programa</strong>: Após a depuração, execute seu programa para ver os resultados.</li>
+</ol>
 
 <h2 id="atividades">Lista de atividades</h2>
     <ol>
-        <li>Faça um programa em C que solicita ao usuário para digitar sua idade e exibe a idade daqui a 10 anos.</li>
-        <li>Faça um programa em C que receba um número inteiro informado pelo usuário e apresente seu sucessor e seu antecessor.</li>
-        <li>Crie um programa que solicite ao usuário dois números inteiros e exiba a soma deles.</li>
-        <li>Crie um programa que verifique se um número digitado pelo usuário é par ou ímpar.</li>
-        <li>Faça um programa em C que apresente na tela o seu nome.</li>
+        <li>Faça um programa em C que solicita ao usuário para digitar sua idade e exibe a idade daqui a 10 anos.</li><br>
+        <li>Faça um programa em C que receba um número inteiro informado pelo usuário e apresente seu sucessor e seu antecessor.</li><br>
+        <li>Crie um programa que solicite ao usuário dois números inteiros e exiba a soma deles.</li><br>
+        <li>Crie um programa que verifique se um número digitado pelo usuário é par ou ímpar.</li><br>
+        <li>Faça um programa em C que apresente na tela o seu nome.</li><br>
         <li>Faça um programa em C que leia um número inteiro informado pelo usuário e ao final mostre:
             <ul>
                 <li>a. O número digitado;</li>
                 <li>b. A metade do número digitado;</li>
                 <li>c. O dobro do número digitado.</li>
             </ul>
-        </li>
-        <li>Faça um programa em C para calcular quantas ferraduras são necessárias para equipar todos os cavalos comprados para um haras. O número de cavalos deverá ser informado pelo usuário.</li>
-        <li>Faça um programa em C que leia três notas de um aluno, calcule e imprima a média aritmética dessas notas.</li>
+        </li><br>
+        <li>Faça um programa em C para calcular quantas ferraduras são necessárias para equipar todos os cavalos comprados para um haras. O número de cavalos deverá ser informado pelo usuário.</li><br>
+        <li>Faça um programa em C que leia três notas de um aluno, calcule e imprima a média aritmética dessas notas.  </li><br>
         <li>Faça um programa em C que receba o peso de uma pessoa, calcule e mostre:
             <ul>
                 <li>a. o novo peso se a pessoa engordar 15% sobre o peso digitado;</li>
