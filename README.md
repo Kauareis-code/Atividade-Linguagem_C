@@ -9,7 +9,7 @@
     <p>
         Este repositório contém uma coleção de atividades práticas desenvolvidas na linguagem C. As atividades abordam conceitos fundamentais e avançados, proporcionando uma base sólida para programadores iniciantes e intermediários.
     </p>
-
+<br><br>
 <h2>Índice</h2>
     <ol>
         <li><a href="#programas">Programas utilizados</a></li>
@@ -23,7 +23,6 @@
     </p>
 <br><br>
 <h2 id="utilização">Como utilizar os programas</h2>
-<br>
 <h3>VSCode</h3>
     <ol>
         <li><strong>Instale o VSCode</strong>
