@@ -18,14 +18,14 @@
         <li><a href="#atividades">Lista de atividades</a></li>
     </ol>
 
-    <h2 id="programas">Programas utilizados</h2>
+<h2 id="programas">Programas utilizados</h2>
     <p>
         Para compilar e executar os programas, você precisará ter um compilador C. Você pode usar o GDB online (GNU Debugger) ou até mesmo o VSCode. Para iniciar no GDB, você pode acessá-lo usando o seguinte link: <a href="https://www.onlinegdb.com/">clique aqui</a>.
     </p>
 
-    <h2 id="utilização">Como utilizar os programas</h2>
+<h2 id="utilização">Como utilizar os programas</h2>
 
-    <h3>VSCode</h3>
+<h3>VSCode</h3>
     <ol>
         <li><strong>Instale o VSCode</strong>
             <ul>
